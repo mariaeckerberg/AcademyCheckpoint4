@@ -1,0 +1,11 @@
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\bin\Debug\netcoreapp2.1\Checkpoint4Maria.deps.json
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\bin\Debug\netcoreapp2.1\Checkpoint4Maria.runtimeconfig.json
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\bin\Debug\netcoreapp2.1\Checkpoint4Maria.runtimeconfig.dev.json
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\bin\Debug\netcoreapp2.1\Checkpoint4Maria.dll
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\bin\Debug\netcoreapp2.1\Checkpoint4Maria.pdb
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\obj\Debug\netcoreapp2.1\Checkpoint4Maria.csprojAssemblyReference.cache
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\obj\Debug\netcoreapp2.1\Checkpoint4Maria.csproj.CoreCompileInputs.cache
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\obj\Debug\netcoreapp2.1\Checkpoint4Maria.AssemblyInfoInputs.cache
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\obj\Debug\netcoreapp2.1\Checkpoint4Maria.AssemblyInfo.cs
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\obj\Debug\netcoreapp2.1\Checkpoint4Maria.dll
+C:\repos\Checkpoint4Maria\Checkpoint4Maria\obj\Debug\netcoreapp2.1\Checkpoint4Maria.pdb
